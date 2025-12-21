@@ -39,4 +39,5 @@ Raul Takagi Sato Souza é o criador da NoHeroes, um projeto autoral brasileiro c
 Atualmente, a NoHeroes publica e desenvolve projetos narrativos focados em livros e ebooks de ficção, que estabelecem as bases conceituais e narrativas do universo. Paralelamente, obras em formato de mangá encontram-se em produção, expandindo visualmente esse mesmo ecossistema ficcional. Como parte central da evolução do projeto, um aplicativo próprio está em desenvolvimento, com o objetivo de conectar narrativa, interatividade e práticas no mundo real. Outros formatos, como animação e jogos, fazem parte da visão de longo prazo da NoHeroes e serão explorados à medida que o universo se expanda de forma orgânica. Todo o desenvolvimento é realizado de maneira independente, priorizando coerência narrativa, controle criativo e crescimento sustentável.
 
 ## Links e Contato
-(placeholder)
+Site oficial: https://noheroes.com.br  
+Contato para imprensa: contato@noheroes.com.br
