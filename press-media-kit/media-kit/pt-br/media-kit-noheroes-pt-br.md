@@ -29,3 +29,19 @@ Em desenvolvimento, encontram-se as continuações diretas das obras narrativas 
 A visão de longo prazo da NoHeroes inclui a expansão para formatos como animação e a evolução do aplicativo como eixo de integração entre narrativa, prática e comunidade. Iniciativas voltadas ao apoio a criadores autônomos, por meio de mentorias e estruturas colaborativas, também fazem parte dessa visão. Outros formatos, como jogos, são considerados possibilidades futuras, condicionadas ao crescimento orgânico da comunidade ou à entrada de investimentos específicos.
 
 O projeto é desenvolvido de forma integralmente independente, sem financiamento externo, publisher ou estrutura de estúdio formal. Atualmente, todas as etapas de criação, publicação e coordenação do ecossistema são conduzidas pelo próprio criador. O núcleo central da NoHeroes permanece sendo a lore e as histórias, que sustentam e orientam todas as demais iniciativas e expansões do projeto.
+
+## Para quem a NoHeroes é (e para quem não é)
+
+A NoHeroes se conecta principalmente com leitores, criadores de conteúdo e criadores autônomos que se identificam com universos narrativos, animes, jogos e experiências criativas que vão além do entretenimento superficial. O projeto também dialoga com pessoas que buscam propósito, desejam seguir caminhos próprios e construir algo alinhado aos seus valores, em vez de apenas ocupar posições definidas por sistemas externos ou expectativas alheias.
+
+O público da NoHeroes pode estar em diferentes momentos da vida: pessoas que desejam evoluir em aspectos físicos, mentais, espirituais ou financeiros; indivíduos que buscam aprendizado de forma mais leve e descontraída; ou simplesmente quem quer se divertir enquanto desenvolve disciplina e consciência de forma não mecânica. O projeto propõe sair de roteiros automáticos e padrões impostos, incentivando avanço pessoal de maneira prática, criativa e positiva.
+
+Não há pré-requisitos ideológicos para fazer parte da NoHeroes. O único ponto essencial é abertura para o universo e para as experiências propostas, sem oposição constante ao que está sendo apresentado. Caso o projeto não ressoe com alguém, isso é compreendido como uma questão de alinhamento — e não um problema a ser corrigido.
+
+Para criadores, a NoHeroes busca pessoas que desejam contribuir de forma construtiva: artistas, animadores, programadores, desenvolvedores e outros criadores que se identifiquem com os valores, métodos e objetivos do projeto. O ambiente prioriza colaboração, respeito às diretrizes estabelecidas e expansão criativa responsável, evitando conflitos desnecessários ou disputas de ego.
+
+Não é aceitável a participação de colaboradores que não cumpram acordos, prazos ou entregas previamente combinadas. A NoHeroes valoriza autonomia, ritmo individual e bem-estar no processo criativo, permitindo que cada pessoa defina seus próprios tempos de trabalho, desde que o que foi acordado seja entregue com qualidade, clareza e responsabilidade.
+
+A NoHeroes não é um projeto de coaching, nem de autoajuda simplificada. Embora possa ter caráter motivacional, sua proposta não é inflar o ego ou oferecer discursos vazios, mas incentivar prática, interação e construção real. O projeto também não se propõe a alimentar fandoms tóxicos, conflitos constantes ou ambientes desorganizados. Trata-se de uma estrutura criativa profissional que busca equilíbrio, evolução saudável e experiências significativas.
+
+Por fim, a NoHeroes não promete atalhos para sucesso, felicidade ou realização pessoal. O projeto oferece ferramentas, estruturas e narrativas para desenvolvimento a longo prazo, mas a responsabilidade pelo caminho e pelos resultados é sempre do indivíduo. A NoHeroes funciona como meio e suporte — nunca como substituta da ação, do esforço ou da responsabilidade pessoal.
