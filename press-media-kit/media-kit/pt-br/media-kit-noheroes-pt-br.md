@@ -45,3 +45,17 @@ Não é aceitável a participação de colaboradores que não cumpram acordos, p
 A NoHeroes não é um projeto de coaching, nem de autoajuda simplificada. Embora possa ter caráter motivacional, sua proposta não é inflar o ego ou oferecer discursos vazios, mas incentivar prática, interação e construção real. O projeto também não se propõe a alimentar fandoms tóxicos, conflitos constantes ou ambientes desorganizados. Trata-se de uma estrutura criativa profissional que busca equilíbrio, evolução saudável e experiências significativas.
 
 Por fim, a NoHeroes não promete atalhos para sucesso, felicidade ou realização pessoal. O projeto oferece ferramentas, estruturas e narrativas para desenvolvimento a longo prazo, mas a responsabilidade pelo caminho e pelos resultados é sempre do indivíduo. A NoHeroes funciona como meio e suporte — nunca como substituta da ação, do esforço ou da responsabilidade pessoal.
+
+## Como colaborar com a NoHeroes
+
+A NoHeroes está aberta à colaboração com pessoas que desejam contribuir ativamente para a construção e expansão do universo, respeitando seus valores, métodos e diretrizes criativas. As possibilidades de colaboração incluem criação artística, ilustração, desenvolvimento de mangás, animação (2D, 3D ou animação de interface), desenvolvimento de aplicativos e programação, moderação de comunidades, criação de conteúdo para redes sociais, gestão de tráfego, além de parcerias com investidores ou patrocinadores alinhados à visão do projeto.
+
+As colaborações podem assumir diferentes formatos, variando conforme o interesse, disponibilidade e nível de envolvimento de cada pessoa. O foco principal da NoHeroes é formar parcerias de longo prazo ou contínuas, oferecendo benefícios mais amplos para quem deseja caminhar junto de forma consistente. No entanto, colaborações pontuais e serviços específicos também são bem-vindos, desde que alinhados com os objetivos do projeto.
+
+Atualmente, as formas de colaboração podem incluir trabalho voluntário, acordos com remuneração quando possível, combinações de participação futura em ganhos ou, em alguns casos específicos, contratos formais. Cada colaboração é tratada de maneira individual, de acordo com o tipo de contribuição, impacto no projeto e condições viáveis no momento.
+
+A NoHeroes oferece, em troca, aprendizado prático, participação criativa real, espaço de expressão autoral, créditos pela contribuição realizada e possíveis ganhos futuros conforme o crescimento do projeto. O reconhecimento e os benefícios são proporcionais ao nível de envolvimento e impacto de cada colaborador. Além disso, colaboradores têm acesso facilitado aos produtos e conteúdos da NoHeroes e contato direto com o criador do projeto.
+
+O contato para colaboração pode ser feito por meio do formulário disponível no site oficial da NoHeroes, pelo e-mail de contato, pela página de apoio do site ou através das comunidades abertas, como o Discord, que possui espaços específicos voltados a esse tipo de interação. Mensagens por redes sociais também podem ser utilizadas como canal inicial.
+
+A NoHeroes prioriza poucas pessoas bem alinhadas, comprometidas e dispostas a seguir um caminho consistente, em vez de um grande número de colaboradores motivados apenas por retorno financeiro imediato. O projeto não oferece salários fixos ou vagas garantidas neste momento, e não promete sucesso rápido ou resultados automáticos. O que se busca é uma troca justa, transparente e construída ao longo do tempo, com responsabilidade mútua e expectativas claras desde o início.
