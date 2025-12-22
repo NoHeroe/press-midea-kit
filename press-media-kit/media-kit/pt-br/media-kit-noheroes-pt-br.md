@@ -69,6 +69,6 @@ O contato profissional com a NoHeroes pode ser realizado pelos seguintes canais 
 
 Para acompanhar o desenvolvimento técnico, estrutural e conceitual do projeto, bem como iniciativas abertas relacionadas à plataforma e ao ecossistema, a NoHeroes mantém um repositório público no GitHub:
 
-**GitHub:** https://github.com/noheroes  
+**GitHub:** https://github.com/NoHeroe  
 
 O GitHub é utilizado como espaço de transparência, documentação e organização do desenvolvimento, não como canal primário de suporte ou atendimento. Contatos relacionados a colaboração, parcerias ou propostas devem ser realizados preferencialmente pelos canais oficiais listados acima.
