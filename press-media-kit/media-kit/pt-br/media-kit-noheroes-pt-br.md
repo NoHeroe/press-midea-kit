@@ -59,3 +59,16 @@ A NoHeroes oferece, em troca, aprendizado prático, participação criativa real
 O contato para colaboração pode ser feito por meio do formulário disponível no site oficial da NoHeroes, pelo e-mail de contato, pela página de apoio do site ou através das comunidades abertas, como o Discord, que possui espaços específicos voltados a esse tipo de interação. Mensagens por redes sociais também podem ser utilizadas como canal inicial.
 
 A NoHeroes prioriza poucas pessoas bem alinhadas, comprometidas e dispostas a seguir um caminho consistente, em vez de um grande número de colaboradores motivados apenas por retorno financeiro imediato. O projeto não oferece salários fixos ou vagas garantidas neste momento, e não promete sucesso rápido ou resultados automáticos. O que se busca é uma troca justa, transparente e construída ao longo do tempo, com responsabilidade mútua e expectativas claras desde o início.
+
+## Contato e Acompanhamento
+
+O contato profissional com a NoHeroes pode ser realizado pelos seguintes canais oficiais:
+
+**Site oficial:** https://noheroes.com.br  
+**E-mail de contato:** contato@noheroes.com.br  
+
+Para acompanhar o desenvolvimento técnico, estrutural e conceitual do projeto, bem como iniciativas abertas relacionadas à plataforma e ao ecossistema, a NoHeroes mantém um repositório público no GitHub:
+
+**GitHub:** https://github.com/noheroes  
+
+O GitHub é utilizado como espaço de transparência, documentação e organização do desenvolvimento, não como canal primário de suporte ou atendimento. Contatos relacionados a colaboração, parcerias ou propostas devem ser realizados preferencialmente pelos canais oficiais listados acima.
