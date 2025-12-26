@@ -1,0 +1,17 @@
+# Pitch — NoHeroes
+
+## Pitch Completo
+A NoHeroes é um projeto autoral brasileiro concebido desde sua origem como um ecossistema criativo, e não como uma obra isolada. Em um cenário marcado pelo consumo excessivo de conteúdo raso, aprendizado superficial e projetos criativos que raramente se sustentam no longo prazo, a NoHeroes nasce da necessidade de construir algo consistente, contínuo e vivo — tanto no campo narrativo quanto na prática real.
+
+O projeto se estrutura a partir de um universo de fantasia sombria, com a lore funcionando como núcleo central. Livros, mangás e futuras expansões narrativas não existem como produtos independentes, mas como partes de um sistema maior. Paralelamente, a NoHeroes desenvolve um aplicativo próprio que atua como ponte entre ficção e vida real, utilizando desafios, metáforas e práticas concretas para transformar a narrativa em experiência ativa, e não apenas em consumo passivo.
+
+O principal diferencial da NoHeroes está em sua estrutura. Diferente de projetos que começam como livros ou histórias e depois tentam se expandir, a NoHeroes foi pensada desde o início como um sistema multimídia e participativo. O projeto não separa ficção de desenvolvimento pessoal, nem narrativa de prática, e não opera com fórmulas prontas ou promessas de resultado imediato. Evolução dentro do universo exige ação fora dele.
+
+Além disso, a NoHeroes se posiciona como um espaço de experimentação e estruturação criativa no Brasil, especialmente no campo da fantasia, dos quadrinhos, da animação e da cultura inspirada em animes. Em um país que consome intensamente esse tipo de conteúdo, mas ainda carece de ecossistemas sólidos para criação autoral, o projeto busca não apenas formar público, mas também incentivar e organizar criadores, oferecendo diretrizes claras, liberdade responsável e construção de longo prazo.
+
+Atualmente, a NoHeroes conta com obras publicadas que estabelecem a base do universo narrativo, comunidades abertas para troca e acompanhamento do projeto, e iniciativas em desenvolvimento, como a continuação das sagas literárias, projetos em mangá e a evolução do aplicativo em estágio conceitual e experimental. Todas as etapas do projeto são conduzidas de forma independente, sem financiamento externo ou estrutura de estúdio formal.
+
+A NoHeroes está aberta a parcerias e colaborações com pessoas e organizações que se identifiquem com sua visão e estejam dispostas a construir algo consistente ao longo do tempo. Mais do que crescimento rápido ou exposição imediata, o projeto busca alinhamento, responsabilidade criativa e compromisso com processos que façam sentido — dentro e fora da narrativa.
+
+## Pitch Curto
+A NoHeroes é um projeto autoral brasileiro concebido como um ecossistema criativo, e não como uma obra isolada. O universo se estrutura a partir de uma lore central, expandida por livros, mangás e experiências interativas, conectando ficção e vida real. Diferente de projetos focados apenas em entretenimento, a NoHeroes propõe aprendizado e desenvolvimento por meio de narrativa, prática e participação ativa. O projeto também atua como espaço de estruturação criativa no Brasil, incentivando criadores nas áreas de fantasia, quadrinhos, animação e cultura inspirada em animes. Atualmente em expansão, a NoHeroes busca parcerias e colaboradores alinhados à construção de longo prazo, responsabilidade criativa e processos consistentes.
