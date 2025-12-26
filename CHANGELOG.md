@@ -1,1 +1,1 @@
-a
+v1.0 — Estrutura inicial de Press, Media, Pitch e Assets
